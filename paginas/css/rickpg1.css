@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&display=swap');
+
+body {
+    background-image: url(../img/10989982.jpg);
+    background-color: rgb(73, 124, 15);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0px;
+    text-decoration: none;
+    font-family: 'Covered By Your Grace', cursive;
+    justify-content: center;
+}
+.block {
+    width: auto;
+    height: 460px;
+    margin-left: 35px;
+    margin-right: 35px;
+    text-align: center;
+    color: rgb(63, 147, 161);
+    font-size: 45px;
+    justify-content: center;
+    text-shadow:rgb(98, 207, 71) 1px -1px 4px, 
+    rgb(98, 207, 71) -1px 1px 4px, 
+    rgb(98, 207, 71) 1px 1px 4px, 
+    rgb(98, 207, 71) -1px -1px 4px
+}
+.esplic {
+    width: auto;
+    height: 300px;
+    margin-left: 25px;
+    margin-right: 25px;
+    text-align: center;
+    background-color: rgba(31, 128, 52, 0);
+    color: rgb(63, 147, 161);
+    font-size: 40px;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    text-shadow:rgb(98, 207, 71) 1px -1px 4px, 
+    rgb(98, 207, 71) -1px 1px 4px, 
+    rgb(98, 207, 71) 1px 1px 4px, 
+    rgb(98, 207, 71) -1px -1px 4px
+} 
+a {
+    color: black;
+    text-decoration: none;
+}  
+.começar {
+    width: auto;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    text-align: center;
+    background-color: rgba(31, 128, 52, 0);
+    font-size: 55px;
+    border-radius: 15px;
+    align-items: center;
+    justify-content: center;
+    padding: auto; 
+    text-shadow:rgb(98, 207, 71) 1px -1px 4px, 
+    rgb(98, 207, 71) -1px 1px 4px, 
+    rgb(98, 207, 71) 1px 1px 4px, 
+    rgb(98, 207, 71) -1px -1px 4px
+}
+
+.img {
+    background-color: rgba(0, 0, 0, 0.671);
+}
+
+nav a:hover {
+    color: rgb(63, 147, 161);
+    border-radius: 6px;
+
+}
+.começar :hover {
+    background-color: rgba(0, 0, 0, 0.281);
+}
+.bt1 :hover {
+    background-color: rgb(207, 23, 23);
+}
+
+

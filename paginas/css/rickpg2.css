@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@300&display=swap');
+div {
+    display: inline-block;
+}
+.bt1 {
+    width: 130px;
+    display: inline-block;
+}
+
+body {
+    background-image: url(../img/perguuns.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0px;
+    text-align: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 60px;
+    color: rgb(63, 147, 161);
+    font-family: 'Covered By Your Grace', cursive;
+    text-shadow:rgb(122, 219, 98) 1px -1px 5px, 
+    rgb(122, 219, 98) -1px 1px 5px, 
+    rgb(122, 219, 98) 1px 1px 5px, 
+    rgb(122, 219, 98) -1px -1px 5px    
+}
+
+h2 {
+    font-size: 30px;
+    color: rgb(209, 219, 202);
+    text-shadow:rgb(43, 58, 38) 1px -1px, 
+    rgb(43, 58, 38) -1px 1px, 
+    rgb(43, 58, 38) 1px 1px, 
+    rgb(43, 58, 38) -1px -1px
+}
+
+.recomeçar {
+    background-color: rgb(30, 73, 24);
+    color: darkgreen;
+    font-family: 'Signika', sans-serif;
+    width: 130px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: 50px ;
+    font-size: 40px;
+    border-radius: 15px;
+    justify-content: center;
+    box-shadow: rgb(122, 219, 98) 1px -1px 5px, 
+    rgb(122, 219, 98) -1px 1px 5px, 
+    rgb(122, 219, 98) 1px 1px 5px, 
+    rgb(122, 219, 98) -1px -1px 5px
+}
+
+a {
+    text-decoration: none;
+    color: rgb(203, 216, 203);
+    text-align: center;
+    text-shadow:  rgb(122, 219, 98) 1px -1px 1px, 
+    rgb(122, 219, 98) -1px 1px 1px, 
+    rgb(122, 219, 98) 1px 1px 1px, 
+    rgb(122, 219, 98) -1px -1px 1px
+}
+.recomeçar :hover {
+    color: rgb(0, 0, 0);
+}
+
+.bt1 :hover {
+    background-color: rgb(102, 170, 94);
+}
+
+.recomeçar2 {
+    background-color: rgb(30, 73, 24);
+    color: darkgreen;
+    font-family: 'Signika', sans-serif;
+    width: 130px;
+    height: 80px;
+    margin-left: 50px;
+    margin-right: auto;
+    justify-content: center;
+    font-size: 40px;
+    border-radius: 15px;
+    box-shadow: rgb(122, 219, 98) 1px -1px 5px, 
+    rgb(122, 219, 98) -1px 1px 5px, 
+    rgb(122, 219, 98) 1px 1px 5px, 
+    rgb(122, 219, 98) -1px -1px 5px
+}
+
+.recomeçar2 :hover {
+    color: rgb(0, 0, 0);
+}
+
+.bt2 :hover {
+    background-color: rgb(102, 170, 94);
+}
+
+.bt3 {
+    width: 130px;
+    display: inline-block;
+}
+
+.recomeçar3 {
+    background-color: rgb(30, 73, 24);
+    color: darkgreen;
+    font-family: 'Signika', sans-serif;
+    width: 130px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: 50px ;
+    justify-content: center;
+    font-size: 40px;
+    border-radius: 15px;
+    box-shadow: rgb(122, 219, 98) 1px -1px 5px, 
+    rgb(122, 219, 98) -1px 1px 5px, 
+    rgb(122, 219, 98) 1px 1px 5px, 
+    rgb(122, 219, 98) -1px -1px 5px
+}
+
+.recomeçar3 :hover {
+    color: rgb(0, 0, 0);
+}
+
+.bt3 :hover {
+    background-color: rgb(102, 170, 94);
+    align-items: center;
+}
+
+.recomeçar4 {
+    background-color: rgb(30, 73, 24);
+    color: darkgreen;
+    font-family: 'Signika', sans-serif;
+    width: 130px;
+    height: 80px;
+    margin-left: 50px;
+    margin-right: auto;
+    justify-content: center;
+    font-size: 40px;
+    border-radius: 15px;
+    box-shadow: rgb(122, 219, 98) 1px -1px 5px, 
+    rgb(122, 219, 98) -1px 1px 5px, 
+    rgb(122, 219, 98) 1px 1px 5px, 
+    rgb(122, 219, 98) -1px -1px 5px
+}
+
+.recomeçar4 :hover {
+    color: rgb(0, 0, 0);
+}
+
+.bt4 :hover {
+    background-color: rgb(102, 170, 94);
+}
+
